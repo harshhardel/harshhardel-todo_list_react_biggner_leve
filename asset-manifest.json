@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todo_list_react_biggner_level/static/css/main.0d7c893d.chunk.css",
-    "main.js": "/todo_list_react_biggner_level/static/js/main.68aaf9b8.chunk.js",
-    "main.js.map": "/todo_list_react_biggner_level/static/js/main.68aaf9b8.chunk.js.map",
-    "runtime~main.js": "/todo_list_react_biggner_level/static/js/runtime~main.474e2998.js",
-    "runtime~main.js.map": "/todo_list_react_biggner_level/static/js/runtime~main.474e2998.js.map",
-    "static/js/2.8452927c.chunk.js": "/todo_list_react_biggner_level/static/js/2.8452927c.chunk.js",
-    "static/js/2.8452927c.chunk.js.map": "/todo_list_react_biggner_level/static/js/2.8452927c.chunk.js.map",
-    "index.html": "/todo_list_react_biggner_level/index.html",
-    "precache-manifest.a57674ce66201158b1abd4240f8d391c.js": "/todo_list_react_biggner_level/precache-manifest.a57674ce66201158b1abd4240f8d391c.js",
-    "service-worker.js": "/todo_list_react_biggner_level/service-worker.js",
-    "static/css/main.0d7c893d.chunk.css.map": "/todo_list_react_biggner_level/static/css/main.0d7c893d.chunk.css.map"
+    "main.css": "/todo_list_react_biggner_leve/static/css/main.0d7c893d.chunk.css",
+    "main.js": "/todo_list_react_biggner_leve/static/js/main.f7ea4553.chunk.js",
+    "main.js.map": "/todo_list_react_biggner_leve/static/js/main.f7ea4553.chunk.js.map",
+    "runtime~main.js": "/todo_list_react_biggner_leve/static/js/runtime~main.9fd777aa.js",
+    "runtime~main.js.map": "/todo_list_react_biggner_leve/static/js/runtime~main.9fd777aa.js.map",
+    "static/js/2.8452927c.chunk.js": "/todo_list_react_biggner_leve/static/js/2.8452927c.chunk.js",
+    "static/js/2.8452927c.chunk.js.map": "/todo_list_react_biggner_leve/static/js/2.8452927c.chunk.js.map",
+    "index.html": "/todo_list_react_biggner_leve/index.html",
+    "precache-manifest.d9c56dc4c07baeb598a887578c5c4387.js": "/todo_list_react_biggner_leve/precache-manifest.d9c56dc4c07baeb598a887578c5c4387.js",
+    "service-worker.js": "/todo_list_react_biggner_leve/service-worker.js",
+    "static/css/main.0d7c893d.chunk.css.map": "/todo_list_react_biggner_leve/static/css/main.0d7c893d.chunk.css.map"
   }
 }
